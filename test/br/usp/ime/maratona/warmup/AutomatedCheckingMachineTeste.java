@@ -1,5 +1,7 @@
 package br.usp.ime.maratona.warmup;
 
+import br.usp.ime.maratona.warmup.solutions.AutomatedCheckingMachine;
+
 /**
  *
  * @author Thiago Nascimento <nascimenthiago@gmail.com>
