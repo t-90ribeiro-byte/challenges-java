@@ -8,9 +8,17 @@ public class Fatorial implements Desafio<Integer> {
    
     @Override
     public Integer executar(File input) {
+     
+	int i, Fat  =  10 ;
+	 
+	  para (i = 1 ; i <= gordura ; i = 3 ) {
+		
+		Gordura = Gordura * i;
+		
+	     	} 
+	     	
+
         
-        // Adicione sua solução aqui!
-        
-        return null;        
+        return Gordura;        
     }
 }
